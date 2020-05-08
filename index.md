@@ -12,13 +12,13 @@ This is my final project for ENSC-E123. My goal is to create a circuit using dig
 
 The circuit I have currently for this robot is as follows:
 
-[<img src="circuit1.png" alt="Circuit">](https://kem406.github.io/PHYS-S12/12/circuit1.png)
+[<img src="circuit1.png" alt="Circuit">](https://kem406.github.io/ENSC-E123/circuit1.png)
 
-[<img src="controls.jpg" alt="Controls" style="height: 200px; max-width: 48%">](https://kem406.github.io/PHYS-S12/12/controls.jpg)
+[<img src="controls.jpg" alt="Controls" style="height: 200px; max-width: 48%">](https://kem406.github.io/ENSC-E123/controls.jpg)
 
 The buttons on the right pump air into the actuators, while the ones on the left are pressure release valves:
 
-[<img src="breadboards.jpg" alt="Breadboards" style="height: 200px; max-width: 48%">](https://kem406.github.io/PHYS-S12/12/breadboards.jpg)
+[<img src="breadboards.jpg" alt="Breadboards" style="height: 200px; max-width: 48%">](https://kem406.github.io/ENSC-E123/breadboards.jpg)
 
 ##lol
 
