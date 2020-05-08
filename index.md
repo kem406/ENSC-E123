@@ -41,7 +41,7 @@ I believe everything here can be accomplished entirely using logic gates, and (b
 
 ## Project Update 5/8/2020
 
-<iframe src="https://www.youtube.com/watch?v=MBiUFkSeM7U"
+<iframe src="https://www.youtube.com/watch?v=MBiUFkSeM7U&feature=youtu.be"
     width="560"
     height="315"
     frameborder="0"
