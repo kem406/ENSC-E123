@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  "Digital Circuit Design"
 ---
 
 This is a webpage for Ken Michalek's work in ENSC-E123, a course offered at the Harvard University extension school.
