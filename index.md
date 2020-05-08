@@ -38,3 +38,12 @@ The circuit I want to build for the final project will do all of this and more:
 * Implement some kind of control feedback to prevent the air muscles (McKibben Actuators) from building up too much air pressure
 
 I believe everything here can be accomplished entirely using logic gates, and (best of all) without anything that needs to be programmed like the Arduino.
+
+## Project Update 5/8/2020
+
+<iframe src="https://www.youtube.com/watch?v=MBiUFkSeM7U"
+    width="560"
+    height="315"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
