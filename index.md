@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Digital Logic Circuit for Robot Arm
 
-This is my final project for ENSC-E123. My goal is to create a circuit using digital logic gates to control the [robot arm](https://kem406.github.io/PHYS-S12/12/) I built for PHYS-S12. 
+This is my final project for ENSC-E123. My goal is to create a circuit using digital logic gates to control the [robot arm](https://kem406.github.io/PHYS-S12/12/) I built for PHYS-S12.
 
 ## Original proposal
 
@@ -20,7 +20,7 @@ This is my final project for ENSC-E123. My goal is to create a circuit using dig
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-##
+##lol
 
 ### Header 3
 
