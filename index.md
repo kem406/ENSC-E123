@@ -61,7 +61,7 @@ A more intuitive demo can be seen below, where a simple elbow ceases movement wh
 
 Just like in this demo, I would eventually like to incorporate LEDs into the new circuit (the buzzer seems unnecessary): blue for pressure in, yellow for pressure out, and red for when an invalid command is detected. I'll disregard the LEDs for now, however⁠—here is a rough schematic that incorporates switch debouncing and demonstrates a configuration of logic gates to achieve the desired effect:
 
-[<img src="schematic1.jpg" alt="Schematic">](https://kem406.github.io/ENSC-E123/schematic1.jpg)
+[<img src="schematic1_mini.png" alt="Schematic">](https://kem406.github.io/ENSC-E123/schematic1.jpg)
 
 Invalid commands are detected by the exclusive-OR (a.k.a. XOR) gates and will only enable valves when either one or the other for a specific joint are activated. In addition, all eight pushbuttons are wired to a cascade of OR gates (represented in the schematic by just one OR gate near the bottom) that together enable the master control valve, which lets in air flow to each of the eight valves. However, it is not yet certain to me whether these OR gates are necessary, or if the eight pushbuttons can simply be directly wired to the master control valve enable.
 
