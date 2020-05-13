@@ -43,7 +43,7 @@ I believe everything here can be accomplished entirely using logic gates, and (b
 
 I want the new circuit to incorporate a feature that the Arduino-based circuit didn't. Namely, the ability to detect invalid commands, like an elbow moving up and down at the same time. This was something I managed to wire up for a simple valve test, but didn't implement into the final version of the robot:
 
-<iframe src="https://www.youtube.com/embed/h0ZKeB9yQK0"
+<iframe src="https://www.youtube.com/embed/G4ze2Gb5cMY"
     width="560"
     height="315"
     frameborder="0"
@@ -52,7 +52,7 @@ I want the new circuit to incorporate a feature that the Arduino-based circuit d
 
 A more intuitive demo can be seen below, where a simple elbow ceases movement when it is told to move up and down at the same time:
 
-<iframe src="https://www.youtube.com/embed/MBiUFkSeM7U"
+<iframe src="https://www.youtube.com/embed/UXNurMPjWgg"
     width="560"
     height="315"
     frameborder="0"
