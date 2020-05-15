@@ -9,7 +9,7 @@ This is a webpage for Ken Michalek's work in ENSC-E123, a course offered at the 
 
 This is my final project for ENSC-E123. My goal is to create a circuit using digital logic gates to control the [robot arm](https://kem406.github.io/PHYS-S12/12/) I built for PHYS-S12.
 
-## Original proposal 5/1/2020
+## Original Proposal 5/1/2020
 
 The circuit I have currently for this robot is as follows:
 
@@ -81,7 +81,7 @@ Goals for the final project submission:
 
 [<img src="ensc_final.png" alt="Final Project">](https://kem406.github.io/ENSC-E123/ensc_final.png)
 
-Here is the finalized design of the circuit. Several things are changed from the previous iteration, including the addition of feedback control, a simplified OR gate for the master valve, the adjusting of pushbuttons to active-low, and a lighting of red LEDs when feedback is detected (instead of an invalid command, because, in my opinion, feedback is much more critical).
+Here is the finalized design of the circuit. Several things are changed from the previous iteration, including the addition of feedback control, a [simplified OR gate](http://www.learningaboutelectronics.com/Articles/Diode-OR-gate-circuit.php) for the master valve, the adjusting of pushbuttons to active-low, and a lighting of red LEDs when feedback is detected (instead of an invalid command, because, in my opinion, feedback is much more critical).
 
 Comprehensive list of features:
 
@@ -99,16 +99,24 @@ Comprehensive list of features:
 
 Parts list:
 
-* 4X blue LED
+* 4X [blue LEDs](https://www.alliedelec.com/product/kingbright/wp7113qbc-d/70062986/?utm_source=google&utm_medium=cpc&adpos=&scid=scplp70062986&sc_intid=70062986&gclid=EAIaIQobChMI3LmQo6W16QIVjInICh1eLALEEAQYBCABEgKgjPD_BwE&gclsrc=aw.ds)
 
-* 4X yellow LED
+* 4X [yellow LEDs](https://www.parts-express.com/super-ultra-bright-yellow-5mm-led-10000-mcd--070-542)
 
-* 4X red LED
+* 4X [red LEDs](https://lighthouseleds.com/5mm-led-red-ultra-bright-15-000-mcd.html?gclid=EAIaIQobChMItKzs2KW16QIVF47ICh2K2wHYEAQYAyABEgIkhfD_BwE)
 
-* 4X blue LED
+* 8X [1N4001 diodes](https://www.digikey.com/product-detail/en/on-semiconductor/1N4001/1N4001FSCT-ND/1532742)
 
-* 8X 1N4001 diodes
+* 2X [74HC08 ICs](https://www.digikey.com/product-detail/en/texas-instruments/SN74HC08N/296-1570-5-ND/277216)
 
-* 2X 74HC08 ICs
+* 1X [74HC86 IC](https://www.digikey.com/product-detail/en/texas-instruments/SN74HC86N/296-8375-5-ND/376842)
 
-* 1X 74HC86 IC
+* 2X [74HC14 ICs](https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC14D-653/1727-2783-2-ND/763005)
+
+* 8X [pushbutton switches](https://www.newark.com/alcoswitch-te-connectivity/1825910-6/tact-switch-spst-0-05a-24vdc-solder/dp/60M5365?gclid=EAIaIQobChMIp6qhkKW16QIVBeXICh0pxgEXEAQYBCABEgLOOPD_BwE&mckv=s_dc|pcrid|434136793434|plid||kword||match||slid||product|60M5365|pgrid|100464451146|ptaid|pla-904243529025|&CMP=KNC-GUSA-GEN-Shopping-NewStructure-Switches-Relays)
+
+* 8X [10K resistors](https://www.digikey.com/product-detail/en/te-connectivity-passive-product/YR1B10KCC/A105970TB-ND/2389737)
+
+* 8x ~[100K resistors](https://www.digikey.com/product-detail/en/yageo/MFR-25FBF52-110K/110KXBK-ND/13481)
+
+* 8X [0.1μF capacitors](https://www.digikey.com/product-detail/en/nichicon/UMA1H0R1MCD2TP/493-10420-3-ND/4312419)
