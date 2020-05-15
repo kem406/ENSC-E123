@@ -33,7 +33,7 @@ The circuit I want to build for the final project will do all of this and more:
 
 * Activate the master control valve whenever any of the other valves are activated without the use of an arduino (or possibly any logic gates)
 
-* Prevent any joint in the robot from moving up and down at the same time, light a red LED and sound a warning buzzer if someone tries to do so
+* Prevent any joint in the robot from moving up and down at the same time, light a red LED ~~and sound a warning buzzer~~ if someone tries to do so
 
 * Implement some kind of control feedback to prevent the air muscles (McKibben Actuators) from building up too much air pressure
 
@@ -80,3 +80,19 @@ Goals for the final project submission:
 ## Final Project Submission 5/15/2020
 
 [<img src="ensc_final.png" alt="Final Project">](https://kem406.github.io/ENSC-E123/ensc_final.png)
+
+Here is the finalized design of the circuit. Several things are changed from the previous iteration, including the addition of feedback control, a simplified OR gate for the master valve, and a RED led lights when feedback detected instead of an invalid command (because, in my opinion, feedback is much more critical).
+
+Comprehensive list of features:
+
+* All switches properly debounced
+
+* Master valve opens when any of the other valves are opened
+
+* Ceases movement if invalid command detected (intake and release valve activated at same time)
+
+* Ceases air intake if feedback signals detected (i.e. don't let someone hold down button and pump air in indefinitely)
+
+* For each joint, lights a blue LED for air pressure in, a yellow LED for pressure out, and a red LED for feedback detection
+
+* Replaces the cascade of OR gates with a single diode OR gate
