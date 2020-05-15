@@ -107,7 +107,7 @@ Parts list:
 
 * 8X [1N4001 diodes](https://www.digikey.com/product-detail/en/on-semiconductor/1N4001/1N4001FSCT-ND/1532742)
 
-* 2X [74HC08 ICs](https://www.digikey.com/product-detail/en/texas-instruments/SN74HC08N/296-1570-5-ND/277216)
+* 3X [74HC08 ICs](https://www.digikey.com/product-detail/en/texas-instruments/SN74HC08N/296-1570-5-ND/277216)
 
 * 1X [74HC86 IC](https://www.digikey.com/product-detail/en/texas-instruments/SN74HC86N/296-8375-5-ND/376842)
 
