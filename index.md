@@ -115,7 +115,7 @@ Parts list:
 
 * 8X [pushbutton switches](https://tinyurl.com/y7f6h7ko)
 
-* 8X [10K resistors](https://www.digikey.com/product-detail/en/te-connectivity-passive-product/YR1B10KCC/A105970TB-ND/2389737)
+* 20X [10K resistors](https://www.digikey.com/product-detail/en/te-connectivity-passive-product/YR1B10KCC/A105970TB-ND/2389737)
 
 * 8X ~[100K resistors](https://www.digikey.com/product-detail/en/yageo/MFR-25FBF52-110K/110KXBK-ND/13481)
 
