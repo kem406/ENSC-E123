@@ -81,7 +81,7 @@ Goals for the final project submission:
 
 [<img src="ensc_final.png" alt="Final Project">](https://kem406.github.io/ENSC-E123/ensc_final.png)
 
-Here is the finalized design of the circuit. Several things are changed from the previous iteration, including the addition of feedback control, a simplified OR gate for the master valve, and a RED led lights when feedback detected instead of an invalid command (because, in my opinion, feedback is much more critical).
+Here is the finalized design of the circuit. Several things are changed from the previous iteration, including the addition of feedback control, a simplified OR gate for the master valve, the adjusting of pushbuttons to active-low, and a lighting of red LEDs when feedback is detected (instead of an invalid command, because, in my opinion, feedback is much more critical).
 
 Comprehensive list of features:
 
