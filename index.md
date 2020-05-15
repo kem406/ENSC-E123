@@ -113,7 +113,7 @@ Parts list:
 
 * 2X [74HC14 ICs](https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC14D-653/1727-2783-2-ND/763005)
 
-* 8X [pushbutton switches](https://www.newark.com/alcoswitch-te-connectivity/1825910-6/tact-switch-spst-0-05a-24vdc-solder/dp/60M5365?gclid=EAIaIQobChMIp6qhkKW16QIVBeXICh0pxgEXEAQYBCABEgLOOPD_BwE&mckv=s_dc|pcrid|434136793434|plid||kword||match||slid||product|60M5365|pgrid|100464451146|ptaid|pla-904243529025|&CMP=KNC-GUSA-GEN-Shopping-NewStructure-Switches-Relays)
+* 8X [pushbutton switches](https://tinyurl.com/y7f6h7ko)
 
 * 8X [10K resistors](https://www.digikey.com/product-detail/en/te-connectivity-passive-product/YR1B10KCC/A105970TB-ND/2389737)
 
@@ -127,7 +127,7 @@ Goals for the future:
 
 * Devise some way to measure feedback (such as applying a current between the pivot pole and the top of the shoulder so [when they contact](https://www.youtube.com/watch?v=t5dK5Kn9nus&t=10s), a signal is sent to disable the valve)
 
-* Turn the schematic into a manufacturable PC board, possible something that can be etched on the ShopBot
+* Turn the schematic into a manufacturable PC board, possibly something that can be etched on the ShopBot
 
 * Incorporate header pins and terminals in order to connect wires from the solenoid valves
 
