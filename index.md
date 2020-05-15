@@ -120,3 +120,15 @@ Parts list:
 * 8x ~[100K resistors](https://www.digikey.com/product-detail/en/yageo/MFR-25FBF52-110K/110KXBK-ND/13481)
 
 * 8X [0.1μF capacitors](https://www.digikey.com/product-detail/en/nichicon/UMA1H0R1MCD2TP/493-10420-3-ND/4312419)
+
+Goals for the future:
+
+* Get better at making schematics in EAGLE
+
+* Devise some way to measure feedback (such as applying a current between the pivot pole and the top of the shoulder so [when they contact](https://www.youtube.com/watch?v=t5dK5Kn9nus&t=10s), a signal is sent to disable the valve)
+
+* Turn the schematic into a manufacturable PC board, possible something that can be etched on the ShopBot
+
+* Incorporate header pins and terminals in order to connect wires from the solenoid valves
+
+* Build a nice looking housing for the PC board and mount it on the robot
