@@ -9,7 +9,7 @@ This is a webpage for Ken Michalek's work in ENSC-E123, a course offered at the 
 
 This is my final project for ENSC-E123. My goal is to create a circuit using digital logic gates to control the [robot arm](https://kem406.github.io/PHYS-S12/12/) I built for PHYS-S12.
 
-## Original proposal
+## Original proposal 5/1/2020
 
 The circuit I have currently for this robot is as follows:
 
@@ -76,3 +76,7 @@ Goals for the final project submission:
 * Incorporate feedback control by ceasing activation of the pressure intake valves when unsafe air pressures are detected (i.e. don't let someone hold the button down to pump air into the robot for too long)
 
 * Determine whether or not the OR gates for the master control valve are necessary
+
+## Final Project Submission 5/15/2020
+
+[<img src="ensc_final.png" alt="Final Project">](https://kem406.github.io/ENSC-E123/ensc_final.png)
