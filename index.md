@@ -127,6 +127,8 @@ Goals for the future:
 
 * Devise some way to measure feedback (such as applying a current between the pivot pole and the top of the shoulder so [when they contact](https://www.youtube.com/watch?v=t5dK5Kn9nus&t=10s), a signal is sent to disable the valve)
 
+* Test the circuit on a breadboard
+
 * Turn the schematic into a manufacturable PC board, possibly something that can be etched on the ShopBot
 
 * Incorporate header pins and terminals in order to connect wires from the solenoid valves
