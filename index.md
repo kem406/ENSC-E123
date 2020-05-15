@@ -117,7 +117,7 @@ Parts list:
 
 * 8X [10K resistors](https://www.digikey.com/product-detail/en/te-connectivity-passive-product/YR1B10KCC/A105970TB-ND/2389737)
 
-* 8x ~[100K resistors](https://www.digikey.com/product-detail/en/yageo/MFR-25FBF52-110K/110KXBK-ND/13481)
+* 8X ~[100K resistors](https://www.digikey.com/product-detail/en/yageo/MFR-25FBF52-110K/110KXBK-ND/13481)
 
 * 8X [0.1μF capacitors](https://www.digikey.com/product-detail/en/nichicon/UMA1H0R1MCD2TP/493-10420-3-ND/4312419)
 
