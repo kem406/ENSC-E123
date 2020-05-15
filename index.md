@@ -96,3 +96,19 @@ Comprehensive list of features:
 * For each joint, lights a blue LED for air pressure in, a yellow LED for pressure out, and a red LED for feedback detection
 
 * Replaces the cascade of OR gates with a single diode OR gate
+
+Parts list:
+
+* 4X blue LED
+
+* 4X yellow LED
+
+* 4X red LED
+
+* 4X blue LED
+
+* 8X 1N4001 diodes
+
+* 2X 74HC08 ICs
+
+* 1X 74HC86 IC
